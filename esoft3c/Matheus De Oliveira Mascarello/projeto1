@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body>
+    <h1>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+  <div>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAACUCAMAAADF0xngAAAAaVBMVEX///8AAADS0tKqqqrw8PD5+fljY2P8/Pz29vbi4uLCwsK0tLTz8/MZGRnp6elDQ0NYWFg9PT28vLyRkZHLy8sQEBCKiopdXV0vLy9ra2va2to4ODhLS0sqKip8fHyCgoKbm5siIiJzc3Mowlw+AAAEkUlEQVR4nO2c57qiMBBA6SJIkXYBpej7P+QCXgtIQhImCbvL+Xv5NscZJp1VlJ2dnZ2dnZ3/BbssZSsscmg9z7votmwPLIdGHTjrvmwVDJr65KrLdkETqG9S3ZCtM4+mjrhu07NQJwStKdvpi2gq2bO1OjK/QvmIZ7ypeCazkh15e5Lt9uaKslRVTz/KtvsFGcqB8zbyblpYy67/jDdQR86C5PB+ys77YSmUA5dY7jyEIJQPpOY9JLXs4inNc3bYQVFlcjxtorfyg1bGhB7fV85xqcXPlzDDDpK0Edwv0YfyQSw07z+MlmouMO8uq2RPfTwIkbTn55Wk3DIheScedpCetYD+87LWsqPhHU/WAh9T3bn2SwfmAp+Q3kt+dUQ1gi+QaZwkEQtHRiqLTx2tLvApBY+8B8vt0tIk0JLgoezxLNh6t6EKfEqhAeadSygH0jtY3k3y1Q4DFlAd8QvlgyKB8GSZolPhWev7+VXzSlLCZN0G04l24cjI3VljyfutfJGGK+Z1HIYdJGHCuMEkLJQPCra8cy/wKVeNvo6EFPiE0KH0FFXgE6yIyhJyik5F4FAceOSyLFX1JyLNu+ACn3Alq/cD18kQAeeIIO+OJ9myqyN30VJGN/TFxVmY123Csqt3F5v3I8TeEAQ/2LxvJJgdeYTZqHWFD+NIAhfdfxqu/Dp/kuG6+Uh2r/kC+3ae9I3k/YqzVBTbPcs2HMBbbiTv50VLxYik553suprkeBakZ1uunLn7QEx+AHdyJE2MK8rFpSMhnl5G59gjPO8h0y6nnYjc8VAz5is1DujZCo5izbahKej9bNfeTUrClLdjCHGO4RRcPW8xgGOHwTXtNYwk0IE0Ag/q2IrrDOQOJKktN7UCoJNfsLP9WYBKR3F4VngOdMnDrDlKqg2MpOJzXQVD3UfweSYcqsDXXtfCksJd7eBYPVAF3sPtdABR4LqjlQxB5jWOIwq8+4sXZg7tZM5Hb3EG8QpLxL7q449p5dKd+2N6zEQ5Ms/rUH3l64GA5tzqiG7I6n9umTF1qRVqMvTxDMX3WXd0S7/rZ61hsESuaz8fIt7qwJR48fqpfl1RSubIeSWiCSwnzOzycwVNm3f0CD5+jmwrAXM4MNkQLanyjk7l5MGWQNKYaSC1hviGXz2J0cz1WdVcNjBtT1sj6OHn+sNA8fUsmz1GKrOvfumq+e6XPPqt/LJUrVJbIJrbfev3IQ6oLtfPxg8Pe32GPvl3cG/bTIsMLC1N/fgduvC1s6J/7t7ecFkEkbwtb+mUz/fkc9PUcN/xxE7RQSyJuoZTdqnycPJ7zOcpSI49GYWQTAnvWtjlTIGYer8gXbjPDmHZkkmiMLSkXJiTAUiG/L8vBLCkuwQkyfKHvySApYjvy1ZLgq2feVriRt/tWLYiJNda4oeMrVjy+mQH1LIVI7nOcvkymnTLoBb3Je607burExElIr8WnkgKqllaxpIe+OdWMIwtW9k6CEaSDPcPxPA3RHJkCfLpEh+eirdmm9X94FeyFjQgM+J5t9xyT9tN9kB53MD/2LOzs7Ozs7Pz7/IHSVpIKy6xDOMAAAAASUVORK5CYII=" width="50" height="50"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+              </li>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Detalhe</a>
+                  </li>        
+      </nav>
+  </div>
+  <div>
+
+    <img src="https://atrteleinformatica.com.br/Uploads/Imagens/1149/tecnico-para-instalacao-de-cameras-na-zona-leste_thumb.jpg?4BA" class="img-fluid"> 
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_08IHc5CzvuUs-F-lg394m8Y2vL9r3ibhPcBXXjKIS05LNCIhfgdW7GowIPZJIYWz6to&usqp=CAU" class="img-fluid">
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Ewz8KgJQEbDg-9acS7hJ7lBCGVdBVy-bR-TGSpitxGRg3Z6zVL8yOYJnsu57hoqsc8U&usqp=CAU" class="img-fluid">
+
+    <img src="https://www.camerascftv.com.br/wp-content/gallery-bank/gallery-uploads/o_1asdb63mrpuo1fjdvt81u78j1r1o.png" class="img-fluid">
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O2CfBU-_Hlkr7NffAzsG8zHLr28BOofAiA&s" class="img-fluid">
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1X5VWDeoMpz40syhD3teC5USxKFCtVld0A&s" class="img-fluid">
+
+  </div>
+  <div>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">camera</th>
+            <th scope="col">entrou por ultimo</th>
+            <th scope="col">horario</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>11:35</td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>Thorton</td>
+            <td>16:40</td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td>Lucas</td>
+            <td>18:40</td>
+          </tr>
+          <tr>
+            <th scope="row">4</th>
+            <td>Lucas</td>
+            <td>18:45</td>
+          </tr>
+          <tr>
+            <th scope="row">5</th>
+            <td>Lucas</td>
+            <td>18:55</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Lucas/Larissa</td>
+            <td>20:06</td>
+            </tr>
+        </tbody>
+      </table>
+
+      <nav aria-label="Page navigation example">
+        <ul class="pagination">
+          <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+          <li class="page-item"><a class="page-link" href="#">1</a></li>
+          <li class="page-item"><a class="page-link" href="#">2</a></li>
+          <li class="page-item"><a class="page-link" href="#">3</a></li>
+          <li class="page-item"><a class="page-link" href="#">Next</a></li>
+        </ul>
+      </nav>
+
+  </div>
+</html>
